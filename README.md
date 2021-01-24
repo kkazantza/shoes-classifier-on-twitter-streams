@@ -25,6 +25,6 @@ output file: filtered_tweets.txt
 * To consume from Kafka topic offers with Spark Streaming execute:
 
 ```
-spark-submit Task5.py localhost:9092 offers
+spark-submit Predict_Category_Spark_Streaming.py localhost:9092 offers
 ```
 output file: program_output_tweets_prediction.txt
