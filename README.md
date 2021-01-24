@@ -18,7 +18,7 @@ Data Preprocessing Stages used
 Features used for the classification task:
 * descr(encoded as tf-idf feature)
 
-- To train the classification models run Train_Model.py in cluster mode:
+To train the classification models run Train_Model.py in cluster mode:
 
 ```
 spark-submit Train_Model.py \
