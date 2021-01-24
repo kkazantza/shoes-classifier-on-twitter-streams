@@ -1,0 +1,135 @@
+root@s01:~# java -cp /opt/twitter4j/lib/*:/opt/kafka_2.11-0.10.1.0/libs/*:. KafkaTwitterProducer_with_changes mZq3Qy2FDchEMjtvTxtoYzNmw ZVEsmnyBArmseznVfPoEbTKbFk03h2YQ0mPsscT4VSYQG7SJbn 1272943111979892738-s9yUN5E1WON1JALm7y6EZd670CFnV5 sxfSsQVolMcRdgMJOfKbEnECQLxw8l1CMtrTDAPdIn197 offers footwear sandals sneaker
+[Sun Aug 02 17:08:37 UTC 2020]Establishing connection.
+[Sun Aug 02 17:08:41 UTC 2020]Connection established.
+[Sun Aug 02 17:08:41 UTC 2020]Receiving status stream.
+02/08/2020 17:08:41 - Don’t be shy!!😊✅👟🤝
+@chelssntx
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+02/08/2020 17:08:49 - RT @The_Ayooler: “In the spirit of love”
+
+Premium handcrafted leather footwear.
+Starting price:  ₦20,000.
+Other charges apply.
+
+Enquires: L…
+@The_Ayooler
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+^C^Croot@s01:~# ^C
+root@s01:~# java -cp /opt/twitter4j/lib/*:/opt/kafka_2.11-0.10.1.0/libs/*:. KafkaTwitterProducer_with_changes mZq3Qy2FDchEMjtvTxtoYzNmw ZVEsmnyBArmseznVfPoEbTKbFk03h2YQ0mPsscT4VSYQG7SJbn 1272943111979892738-s9yUN5E1WON1JALm7y6EZd670CFnV5 sxfSsQVolMcRdgMJOfKbEnECQLxw8l1CMtrTDAPdIn197 offers footwear sandals sneaker
+[Sun Aug 02 17:09:27 UTC 2020]Establishing connection.
+ret is null: null
+ret is null: null
+ret is null: null
+[Sun Aug 02 17:09:36 UTC 2020]Connection established.
+[Sun Aug 02 17:09:36 UTC 2020]Receiving status stream.
+02/08/2020 17:09:37 - RT @dharmiekingMALL: Snake-print block heel sandals 😍
+
+Sizes 37 - 42 
+
+N10,500 https://t.co/LSF5KhG0qH
+@xotie
+02/08/2020 17:09:37 - @currentiyke Why your woman wear moses sandals on a special date like this??
+@xomtochukwu
+ret is null: null
+ret is null: null
+ret is null: null
+02/08/2020 17:09:44 - @BethWilton Love your sandals 😍
+@BethynFinley
+ret is null: null
+02/08/2020 17:09:45 - 紐可愛いなこれ👍
+@hexagram_label
+02/08/2020 17:09:46 - @PremRathee Why all pakistan minority people are silenced slapped with your footwear that Jihadi Terroist....
+@Takerprince1
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+02/08/2020 17:09:58 - RT @TroyWinnin: ❤️😘
+@iamblatina
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+02/08/2020 17:10:06 - {𝗨𝗣𝗗𝗔𝗧𝗘⛔️} HIGH QUALITY   👟 *[New In ] D & G DAY MASTER SNEAKER 👟 
+
+ AVAILABLE IN STORE 🏬 😍😍😍 NOW @CollectiblesPe1… https://t.co/H82tCnjqv5
+@CollectiblesPe1
+url: twitter.com/i/web/status/1…
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+02/08/2020 17:10:19 - RT @Hi5ame: Katsuhiko Nakajima's sinister advertising of the AXIZ sandals, while wearing a baggy t-shirt that appears to be Go Shiozaki's.…
+@rafaelrat420
+02/08/2020 17:10:19 - Need the Hermès sandals
+@_cydgranger
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+02/08/2020 17:10:31 - @KwasiNawil But eno make sound so ebi poly sark ein sneaker adey mia😑
+@Quophieparadise
+ret is null: null
+ret is null: null
+ret is null: null
+02/08/2020 17:10:36 - Yoo If I was rich, I would be a SNEAKER HEAD 💯🔥🙌🏼... 
+SHOE GAME WOULD BE CRAZY‼️
+@Mscass221
+ret is null: null
+ret is null: null
+02/08/2020 17:10:42 - HEADWAY FOOTWEAR - GREAT BROWN size 40-44 INFO SMS:087809264540 BBM:27f20b54 #handmadeshoes #headwayfootwear https://t.co/CMJTSz5WMw
+@HEADWAYshoes
+hashtag: handmadeshoes
+hashtag: headwayfootwear
+ret is null: null
+02/08/2020 17:10:43 - {𝗨𝗣𝗗𝗔𝗧𝗘⛔️} HIGH QUALITY   👟 *[New In ] D & G DAY MASTER SNEAKER 👟 
+
+ AVAILABLE IN STORE 🏬 😍😍😍 NOW @CollectiblesPe1… https://t.co/c7OL2ra0CE
+@CollectiblesPe1
+url: twitter.com/i/web/status/1…
+02/08/2020 17:10:44 - RT @dharmiekingMALL: Snake-print block heel sandals 😍
+
+Sizes 37 - 42 
+
+N10,500 https://t.co/LSF5KhG0qH
+@princessdhanie
+02/08/2020 17:10:44 - Don't let your friends wear fake kicks - Sneaker Head.
+@Slizzy_SA
+ret is null: null
+ret is null: null
+ret is null: null
+02/08/2020 17:10:49 - I wouldn't buy anything with velcro.
+It's a total rip-off.
+#laugh15daily
+#laughteristhebestmedicine
+😁😀😂😆🤣
+
+Photo b… https://t.co/8UdF9P1apW
+@Laughter_app
+url: twitter.com/i/web/status/1…
+hashtag: laugh15daily
+hashtag: laughteristhebestmedicine
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null
+ret is null: null

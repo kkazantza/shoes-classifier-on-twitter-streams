@@ -1,0 +1,48 @@
+root@s01:~# javac -cp /opt/twitter4j/lib/*:/opt/kafka_2.11-0.10.1.0/libs/*:. KafkaTwitterProducer.java
+root@s01:~# java -cp /opt/twitter4j/lib/*:/opt/kafka_2.11-0.10.1.0/libs/*:. KafkaTwitterProducer mZq3Qy2FDchEMjtvTxtoYzNmw ZVEsmnyBArmseznVfPoEbTKbFk03h2YQ0mPsscT4VSYQG7SJbn 1272943111979892738-s9yUN5E1WON1JALm7y6EZd670CFnV5 sxfSsQVolMcRdgMJOfKbEnECQLxw8l1CMtrTDAPdIn197 shopping offers shoes
+[Mon Jul 27 18:00:15 UTC 2020]Establishing connection.
+[Mon Jul 27 18:00:16 UTC 2020]Connection established.
+[Mon Jul 27 18:00:16 UTC 2020]Receiving status stream.
+27/07/2020 18:00:16 - RT @BasedPoland: Thousands of African boat migrants have made the journey across from Tunisia to #Lampedusa (#Italy) in recent days. They c…
+@Pinok71
+Lampedusa
+Italy
+27/07/2020 18:00:16 - RT @OCDeptofEd: While many summer camps have been canceled @ITOFoundation — OCDE’s unique, hands-on environmental education program — is of…
+@ITOFoundation
+27/07/2020 18:00:16 - RT @kanekislut: girls who wear big pants and chunky shoes are so cute they look like lil bratz dolls
+@duncan_zia
+27/07/2020 18:00:16 - @ScamHunter487 @bob93265343 @JamesMcPeake @AlgarvePost @Cerb32 @MrDelorean2 @MikeJakeman5 @poleyroley86… https://t.co/YjWFkUCC1K
+@MistyDa83907643
+twitter.com/i/web/status/1…
+27/07/2020 18:00:17 - RT @TeaPainUSA: Kudlow has "TGIF" written on the bottom of his shoes.
+
+"Toes Go In First."
+
+https://t.co/rjsPWw3Epi
+@mcgargano
+rawstory.com/2020/07/moron-…
+27/07/2020 18:00:17 - One of the many benefits our membership program offers is access to our listserv. Members enjoy timely updates on a… https://t.co/zwG4ltiUn0
+@chgoasthma
+twitter.com/i/web/status/1…
+27/07/2020 18:00:17 - @aj0411m andrew that kills nathan to take over, neil gets captured on the run but he’s brought in front of andrew a… https://t.co/3CpOglBTSG
+@ohnosten
+twitter.com/i/web/status/1…
+27/07/2020 18:00:17 - RT @cth5sos: incase anyone forgot i am 100% a clown for calum hood. complete clownery. circus. leader of the circus. where are my clown sho…
+@Addammaris
+27/07/2020 18:00:17 - RT @akunnachux: Listen to Sen. Ali Ndume who wears the shoes that pinch: You can't keep innocent citizens in IDP camps & release captured t…
+@Asil4real
+27/07/2020 18:00:18 - Shop the product:
+After all, maybe sticking to a - https://t.co/Mxp4Bgc5zh - $25.99
+
+Check out the entire store:… https://t.co/W6oxyo2Fpp
+@Tshirtunlimit
+small.bz/ABPg0Sg
+twitter.com/i/web/status/1…
+27/07/2020 18:00:18 - RT @oddgems: Morpheus Labs SEED automates the creation of developer's IDE workspaces with production runtimes including source codes, datab…
+@minucrypto
+27/07/2020 18:00:18 - RT @kanekislut: girls who wear big pants and chunky shoes are so cute they look like lil bratz dolls
+@hxllnds
+27/07/2020 18:00:18 - RT @haaretzcom: Name of Amos Steinberg, whose mother was murdered along with him and whose father survived and lives in Israel, uncovered d…
+@DavidWi07586530
+27/07/2020 18:00:18 - I love when I get package notifications!! Pretty sure it’s shoes!!!
+@Missvee_dnd
